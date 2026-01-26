@@ -1,0 +1,10 @@
+# Senior Engineer Memo
+[color=#f39f27]█▄░░▄█ [head=2]Senior Engineer Memo[/head]
+█░▀▀░█ [head=3] Subject:  [/head]
+█░░░░█ [head=3] From:  [/head]
+[/color]──────────────────────────────────────────
+
+    BODY
+
+──────────────────────────────────────────
+Sincerely, NAME.

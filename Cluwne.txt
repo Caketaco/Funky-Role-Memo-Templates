@@ -1,0 +1,10 @@
+# Cluwne Memo
+[color=#59cf93]█░░░░█ [head=2]Cluwne Memo[/head]
+░░██░░ [head=3] Subject:  [/head]
+▀▄▄▄▄▀ [head=3] From:  [/head]
+[/color]──────────────────────────────────────────
+
+    BODY
+
+──────────────────────────────────────────
+Sincerely, NAME.

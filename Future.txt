@@ -1,0 +1,10 @@
+# Future Agent Memo
+[color=#5b97bc]▄▄[color=#A6C3CA]▄▄[/color]▄▄ [head=2]Future Agent Memo[/head]
+▄▄[color=#A6C3CA]█▄[/color]▄▄ [head=3] Subject:  [/head]
+▄▄[color=#A6C3CA]█[/color]▄▄▄ [head=3] From:  [/head]
+[/color]──────────────────────────────────────────
+
+    BODY
+
+──────────────────────────────────────────
+Sincerely, NAME.

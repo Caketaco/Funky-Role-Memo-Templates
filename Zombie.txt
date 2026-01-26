@@ -1,0 +1,10 @@
+# Zombie Memo
+[color=#86c69a]▄████▄ [head=2]Zombie Memo[/head]
+▄▀█▄██ [head=3] Subject:  [/head]
+█▀█▀▀░ [head=3] From:  [/head]
+[/color]──────────────────────────────────────────
+
+    BODY
+
+──────────────────────────────────────────
+Sincerely, NAME.

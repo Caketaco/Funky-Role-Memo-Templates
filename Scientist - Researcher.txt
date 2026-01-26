@@ -1,0 +1,10 @@
+# Scientist Memo
+[color=#c96dbf]░▄▄██░ [head=2]Scientist Memo[/head]
+▄█▀██░ [head=3] Subject:  [/head]
+██▄▄▄░ [head=3] From:  [/head]
+[/color]──────────────────────────────────────────
+
+    BODY
+
+──────────────────────────────────────────
+Sincerely, NAME.

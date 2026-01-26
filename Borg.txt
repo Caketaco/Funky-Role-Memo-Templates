@@ -1,0 +1,10 @@
+# Borg Memo
+[color=#64878c]░░▀▄▀░ [head=2]Borg Memo[/head]
+░█▀█▀█ [head=3] Subject:  [/head]
+░▀███▀ [head=3] From:  [/head]
+[/color]──────────────────────────────────────────
+
+    BODY
+
+──────────────────────────────────────────
+Sincerely, NAME.

@@ -1,0 +1,10 @@
+# Chief Engineer Memo
+[color=#1b67a5]░░▄▀░░ [head=2]Chief Engineer Memo[/head]
+░▄█▄▄▀ [head=3] Subject:  [/head]
+██▀░░░ [head=3] From:  [/head]
+[/color]──────────────────────────────────────────
+
+    BODY
+
+──────────────────────────────────────────
+Sincerely, NAME.

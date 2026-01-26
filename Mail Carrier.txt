@@ -1,0 +1,10 @@
+# Mail Carrier Memo
+[color=#2d388c]▄▄▄▄▄▄ [head=2]Mail Carrier Memo[/head]
+█▀▄▄▀█ [head=3] Subject:  [/head]
+█▄▄▄▄█ [head=3] From:  [/head]
+[/color]──────────────────────────────────────────
+
+    BODY
+
+──────────────────────────────────────────
+Sincerely, NAME.

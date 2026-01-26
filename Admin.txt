@@ -1,0 +1,10 @@
+# Admin Memo
+[color=#3d6f43]░█▀▀█░ [head=2]Admin Memo[/head]
+░█▄▄█░ [head=3] Subject:  [/head]
+░█░░█░ [head=3] From:  [/head]
+[/color]──────────────────────────────────────────
+
+    BODY
+
+──────────────────────────────────────────
+Sincerely, NAME.

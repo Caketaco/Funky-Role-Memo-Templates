@@ -1,0 +1,10 @@
+# Wizard Memo
+[color=#7864c6]░░░▄▄▄ [head=2]Wizard Memo[/head]
+░▄███░ [head=3] Subject:  [/head]
+▄▄▄▄▄▄ [head=3] From:  [/head]
+[/color]──────────────────────────────────────────
+
+    BODY
+
+──────────────────────────────────────────
+Sincerely, NAME.
