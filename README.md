@@ -1,11 +1,10 @@
 # Funky-Role-Memo-Templates
-All of my job specific memo templates for [Funky Station](https://funkystation.org/).
-
-There are 80 of these things so far!
+All 80 of my job specific memo templates for [Funky Station](https://funkystation.org/).
 
 ![](https://i.imgur.com/KWOXgvy.png)
 
 Even some very odd ones are in here!
+(Keep in mind that Wizard, Zombie, and Death Squad are metashielded.)
 
 ![](https://i.imgur.com/gdTnIXC.png)
 
