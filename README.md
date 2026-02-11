@@ -1,6 +1,10 @@
 # Funky-Role-Memo-Templates
 All 80+ of my job specific memo templates for [Funky Station](https://funkystation.org/).
 
+NOTE:
+The `# text label` seen at the top of every file is a Document Label, it will automatically label the document when the document is printed via a fax machine.
+PLEASE remove the label and the line its on if you are not printing the document ingame but rather pasting it ingame.
+
 ![](https://i.imgur.com/KWOXgvy.png)
 *(Note: Above image not up-to-date with changes or additions to repo.)*
 
